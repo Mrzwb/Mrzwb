@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mrzwb
-- 👀 I’m interested in java/python/web
+- 👀 I’m interested in java/python/web/android/ios/ml
 - 🌱 I’m currently learning python
 - 📫 My email is zhouwb2013@126.com, welcome to reach me  
 
